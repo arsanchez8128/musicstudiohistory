@@ -26,9 +26,9 @@ All content is subject to a Creative Commons License (CC BY-NC-ND 4.0), which re
 
 ## Intent
 
-Everything here is for demonstration and teaching purposes only. Look at stuff, don't steal things, and learn a little.
+Everything here is for demonstration and teaching purposes only. Look at the collections, contact me for questions, and learn a little.
 
-{% include feature/pdf.html objectid="e350_panel_cad" width="50" %}
+{% include feature/image.html objectid="coll005" width="75" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
