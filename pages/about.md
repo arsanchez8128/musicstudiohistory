@@ -14,10 +14,15 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is demonstration of CB-GH using a sample collection of objects based on various music studios and instruments. What you'll find here includes: 
 
 - a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- a folder of JPG images or MOV documents
+- a link to a youtube video
+
+## Content Usage
+
+All content is subject to a Creative Commons License (CC BY-NC-ND 4.0), which restricts the reuse from others for any purpose.
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
