@@ -24,6 +24,12 @@ This site is demonstration of CB-GH using a sample collection of objects based o
 
 All content is subject to a Creative Commons License (CC BY-NC-ND 4.0), which restricts the reuse from others for any purpose.
 
+## Intent
+
+Everything here is for demonstration and teaching purposes only. Look at stuff, don't steal things, and learn a little.
+
+{% include feature/pdf.html objectid="e350_panel_cad" width="50" %}
+
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
