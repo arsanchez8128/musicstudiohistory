@@ -17,8 +17,10 @@ credits: true
 This site is demonstration of CB-GH using a sample collection of objects based on various music studios and instruments. What you'll find here includes: 
 
 - a CSV of collection metadata
-- a folder of JPG images or MOV documents
+- a folder of PDF files, JPG images, MP3 recordings, or MOV documents.
 - a link to a youtube video
+
+{% include feature/audio.html objectid="coll011" %}
 
 ## Content Usage
 
