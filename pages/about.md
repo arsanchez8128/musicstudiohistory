@@ -20,7 +20,7 @@ This site is demonstration of CB-GH using a sample collection of objects based o
 - a folder of PDF files, JPG images, MP3 recordings, or MOV documents.
 - a link to a youtube video
 
-{% include feature/audio.html objectid="coll011" %}
+{% include feature/audio.html objectid="coll013" %}
 
 ## Content Usage
 
